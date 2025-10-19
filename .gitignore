@@ -183,3 +183,12 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 # .idea
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
